@@ -23,4 +23,3 @@ module_exit(test_exit);
 
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Test kernel module");
-
